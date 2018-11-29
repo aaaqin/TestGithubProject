@@ -9,5 +9,6 @@ package com.aaa.testgh.controller;
 public class DeptController {
     public static void main(String[] args) {
         System.out.println("hello!!!!!!");
+        System.out.println("dev分支");
     }
 }
